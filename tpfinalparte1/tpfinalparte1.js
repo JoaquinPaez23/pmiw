@@ -1,4 +1,5 @@
 // Valentin Yuge 92715/7 
+// Joaquin Paez 95534/6  https://youtu.be/p7ZUouBImn8?si=Cdb8CkQdAzATZYfR
 
 let img = []; 
 let pantallas = [];
