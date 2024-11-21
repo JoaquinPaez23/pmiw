@@ -1,5 +1,5 @@
 //Valentin Yuge 92715/7
-
+// Joaquin Paez 95534/6
 let player;
 let Suelo;
 let Obstaculos = [];
