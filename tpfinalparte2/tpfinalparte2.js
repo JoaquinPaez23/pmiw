@@ -1,5 +1,5 @@
 //Valentin Yuge 92715/7 
-//Joaquin Paez 95534/6 
+//Joaquin Paez 95534/6 https://youtu.be/GpVz3wfDhjw?si=T7cVwD94qS6TIBun
 
 function preload() {
   imagenParado = loadImage('data/ShrekCorriendo.png'); 
